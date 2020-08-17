@@ -1,0 +1,12 @@
+C:\Users\Jordan Adjei\source\repos\Night Screen\Night Screen\bin\Debug\Night Screen.exe.config
+C:\Users\Jordan Adjei\source\repos\Night Screen\Night Screen\bin\Debug\Night Screen.exe
+C:\Users\Jordan Adjei\source\repos\Night Screen\Night Screen\bin\Debug\Night Screen.pdb
+C:\Users\Jordan Adjei\source\repos\Night Screen\Night Screen\bin\Debug\Night Screen.xml
+C:\Users\Jordan Adjei\source\repos\Night Screen\Night Screen\obj\Debug\Night Screen.vbprojAssemblyReference.cache
+C:\Users\Jordan Adjei\source\repos\Night Screen\Night Screen\obj\Debug\Night_Screen.Form1.resources
+C:\Users\Jordan Adjei\source\repos\Night Screen\Night Screen\obj\Debug\Night_Screen.Resources.resources
+C:\Users\Jordan Adjei\source\repos\Night Screen\Night Screen\obj\Debug\Night Screen.vbproj.GenerateResource.cache
+C:\Users\Jordan Adjei\source\repos\Night Screen\Night Screen\obj\Debug\Night Screen.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Adjei\source\repos\Night Screen\Night Screen\obj\Debug\Night Screen.exe
+C:\Users\Jordan Adjei\source\repos\Night Screen\Night Screen\obj\Debug\Night Screen.xml
+C:\Users\Jordan Adjei\source\repos\Night Screen\Night Screen\obj\Debug\Night Screen.pdb

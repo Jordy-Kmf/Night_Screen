@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Night Screen", "Night Screen\Night Screen.vbproj", "{F53E72D2-AEF0-48C9-B43B-8EA3AE3B46CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F53E72D2-AEF0-48C9-B43B-8EA3AE3B46CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53E72D2-AEF0-48C9-B43B-8EA3AE3B46CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53E72D2-AEF0-48C9-B43B-8EA3AE3B46CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53E72D2-AEF0-48C9-B43B-8EA3AE3B46CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5272005A-12E3-4CC3-8744-E7733B6BC118}
+	EndGlobalSection
+EndGlobal
